@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Mine
-game_state.json
+game_state.jsonl
